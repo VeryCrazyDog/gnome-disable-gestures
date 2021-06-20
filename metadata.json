@@ -3,7 +3,7 @@
   "description": "Disable all GNOME built-in gestures. Useful for kiosks and touch screen apps.",
   "uuid": "disable-gestures-2021@verycrazydog.gmail.com",
   "shell-version": [
-    "3.36"
+    "3.36", "40.0"
   ],
   "url": "https://github.com/VeryCrazyDog/gnome-disable-gestures"
 }
