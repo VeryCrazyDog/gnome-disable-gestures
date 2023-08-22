@@ -7,7 +7,7 @@
 
 /* exported init */
 
-class Extension {
+export default class Extension {
   enable () {
     global.stage.get_actions().forEach(a => { a.enabled = false })
     const disableUnmaximizeGesture = () => {
