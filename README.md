@@ -8,6 +8,9 @@ at reddit too. Unfortunately none of these implementations were published to [ex
 
 This repo is created for the purpose to publish the extension using [katastrophal's implementation][3].
 
+## Development resources
+- [Requirements and tips for getting your GNOME Shell Extension approved]
+
 ## Appendix
 Original implementation by [mattbell87]:
 ```js
@@ -37,3 +40,4 @@ global.stage.get_actions().forEach(a => global.stage.remove_action(a));
 [katastrophal]: https://www.reddit.com/user/katastrophal/
 [mattbell87]: https://extensions.gnome.org/accounts/profile/mattbell87
 [osoplex]: https://www.reddit.com/user/osoplex/
+[Requirements and tips for getting your GNOME Shell Extension approved]: https://blog.mecheye.net/2012/02/requirements-and-tips-for-getting-your-gnome-shell-extension-approved/
