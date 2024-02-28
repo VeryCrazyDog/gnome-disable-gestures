@@ -1,7 +1,7 @@
 /**
  * Disable Gestures 2021
  *
- * A GNOME extension that disables built-in gestures. Useful for kiosks and touch screen apps.
+ * A GNOME extension that disables built-in gestures. Useful for kiosks and touchscreen apps.
  */
 export default class Extension {
   focusWindowId = null
