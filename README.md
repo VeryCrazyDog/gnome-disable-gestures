@@ -1,5 +1,5 @@
 # gnome-disable-gestures
-A GNOME extension that disable all GNOME built-in gestures. Useful for kiosks and touch screen apps.
+A GNOME extension that disable all GNOME built-in gestures. Useful for kiosks and touchscreen apps.
 
 The original implementation of [Disable Gestures][1] extension by [mattbell87] doesn't
 work when [single-finger drag down from top of the screen][2]. [katastrophal] had provided
