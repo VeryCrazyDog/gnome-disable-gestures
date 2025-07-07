@@ -8,6 +8,10 @@ at reddit too. Unfortunately none of these implementations were published to [ex
 
 This repo is created for the purpose to publish the extension using [katastrophal's implementation][3].
 
+## Disclaimer
+Compatibility is provided on a best-effort basis.
+Community contributions for compatibility fixes and improvements are welcome.
+
 ## Development resources
 - [Requirements and tips for getting your GNOME Shell Extension approved]
 
